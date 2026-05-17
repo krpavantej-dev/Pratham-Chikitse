@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pratham-Chikitse</string>
+    <string name="app_tagline">Emergency First Aid Guide</string>
+    <string name="audio_mode">🔊 START AUDIO</string>
+    <string name="audio_stop">🔇 STOP AUDIO</string>
+    <string name="dos">✅ Do\'s</string>
+    <string name="donts">❌ Don\'ts</string>
+    <string name="hospital_finder">Nearest Hospitals</string>
+    <string name="swipe_hint">Swipe to next step →</string>
+    <string name="step_label">Step</string>
+    <string name="of_label">of</string>
+    <string name="call_ambulance">📞 Call 108 – Ambulance</string>
+    <string name="offline_ready">✅ Works Offline</string>
+    <string name="select_emergency">Select an Emergency</string>
+    <string name="distance_label">Distance</string>
+    <string name="phone_label">Phone</string>
+    <string name="call_now">Call Now</string>
+
+    <!-- Emergency Titles -->
+    <string name="emergency_snake_bite">🐍 Snake Bite</string>
+    <string name="emergency_heart_attack">❤️ Heart Attack</string>
+    <string name="emergency_burn">🔥 Burn</string>
+    <string name="emergency_choking">😮 Choking</string>
+    <string name="emergency_fracture">🦴 Fracture</string>
+    <string name="emergency_drowning">🌊 Drowning</string>
+    <string name="emergency_electric_shock">⚡ Electric Shock</string>
+    <string name="emergency_seizure">🧠 Seizure</string>
+    <string name="emergency_poisoning">☠️ Poisoning</string>
+    <string name="emergency_eye_injury">👁️ Eye Injury</string>
+    <string name="emergency_fever">🌡️ High Fever</string>
+    <string name="emergency_asthma">💨 Asthma Attack</string>
+    <string name="emergency_sprain">🦵 Sprain</string>
+    <string name="emergency_nosebleed">🩸 Nosebleed</string>
+    <string name="emergency_diabetic">💉 Diabetic Emergency</string>
+    <string name="emergency_head_injury">🤕 Head Injury</string>
+    <string name="emergency_allergic">🚨 Allergic Reaction</string>
+    <string name="emergency_bleeding">🩹 Severe Bleeding</string>
+    <string name="emergency_heatstroke">☀️ Heatstroke</string>
+    <string name="emergency_unconscious">😴 Unconscious Person</string>
+
+    <!-- Snake Bite -->
+    <string name="snake_step_1">Keep the person calm and still. Immobilize the bitten limb.</string>
+    <string name="snake_do_1">Remove rings, watches, or tight clothing near the bite.</string>
+    <string name="snake_dont_1">Do NOT cut the wound or try to suck out the venom.</string>
+    <string name="snake_step_2">Position the bitten limb below the level of the heart.</string>
+    <string name="snake_do_2">Gently wash the wound with soap and clean water.</string>
+    <string name="snake_dont_2">Do NOT apply a tourniquet or ice to the bite.</string>
+    <string name="snake_step_3">Rush to the nearest hospital for anti-venom treatment immediately.</string>
+    <string name="snake_do_3">Take note of the snake\'s appearance to describe to the doctor.</string>
+    <string name="snake_dont_3">Do NOT give the person alcohol or any medication.</string>
+
+    <!-- Heart Attack -->
+    <string name="heart_step_1">Call emergency services (108) immediately. Every second counts!</string>
+    <string name="heart_do_1">Have the person sit or lie down in a comfortable position.</string>
+    <string name="heart_dont_1">Do NOT leave the person alone at any time.</string>
+    <string name="heart_step_2">Loosen any tight clothing around the neck and chest.</string>
+    <string name="heart_do_2">If prescribed, help them take their nitroglycerin or aspirin.</string>
+    <string name="heart_dont_2">Do NOT give food or water to the person.</string>
+    <string name="heart_step_3">If the person becomes unconscious, begin CPR if trained to do so.</string>
+    <string name="heart_do_3">Stay calm and reassure the person until help arrives.</string>
+    <string name="heart_dont_3">Do NOT attempt to drive them yourself; wait for the ambulance.</string>
+
+    <!-- Burn -->
+    <string name="burn_step_1">Cool the burn immediately under cool (not cold) running water for 10–20 minutes.</string>
+    <string name="burn_do_1">Remove jewelry and clothing near the burn area before swelling starts.</string>
+    <string name="burn_dont_1">Do NOT use ice, butter, toothpaste, or any home remedy on the burn.</string>
+    <string name="burn_step_2">Cover the burn loosely with a sterile non-stick bandage or clean cloth.</string>
+    <string name="burn_do_2">Give over-the-counter pain relief like paracetamol if available.</string>
+    <string name="burn_dont_2">Do NOT break any blisters that form on the burned skin.</string>
+    <string name="burn_step_3">Seek medical attention for burns larger than a palm, burns on face/hands/genitals, or deep burns.</string>
+    <string name="burn_do_3">Keep the person warm to prevent shock while waiting for help.</string>
+    <string name="burn_dont_3">Do NOT wrap the burn tightly — keep the covering loose.</string>
+
+    <!-- Choking -->
+    <string name="choke_step_1">Ask "Are you choking?" If they cannot speak/breathe, act immediately.</string>
+    <string name="choke_do_1">Lean the person forward and give 5 firm back blows between the shoulder blades.</string>
+    <string name="choke_dont_1">Do NOT perform back blows if the person can still cough forcefully.</string>
+    <string name="choke_step_2">Give 5 abdominal thrusts (Heimlich Maneuver): stand behind, make fist above navel, pull sharply inward and upward.</string>
+    <string name="choke_do_2">Alternate between 5 back blows and 5 abdominal thrusts until the object is dislodged.</string>
+    <string name="choke_dont_2">Do NOT perform abdominal thrusts on infants or pregnant women. Use chest thrusts instead.</string>
+    <string name="choke_step_3">If the person loses consciousness, lower them carefully to the floor and call 108. Begin CPR if trained.</string>
+    <string name="choke_do_3">If object becomes visible in the mouth, carefully remove it with a finger sweep.</string>
+    <string name="choke_dont_3">Do NOT perform blind finger sweeps — only remove object if clearly visible.</string>
+
+    <!-- Fracture -->
+    <string name="fracture_step_1">Keep the injured area still. Do not try to straighten the bone.</string>
+    <string name="fracture_do_1">Immobilize the fracture using a splint (board, rolled newspaper) padded with cloth.</string>
+    <string name="fracture_dont_1">Do NOT move the person if you suspect a spine or neck fracture.</string>
+    <string name="fracture_step_2">Apply a cold pack wrapped in cloth to reduce swelling and pain.</string>
+    <string name="fracture_do_2">Elevate the injured limb above heart level if possible to reduce swelling.</string>
+    <string name="fracture_dont_2">Do NOT try to push a protruding bone back in.</string>
+    <string name="fracture_step_3">Seek immediate medical help. For open fractures (bone visible), cover with clean cloth and call 108.</string>
+    <string name="fracture_do_3">Keep the patient calm and still. Check for pulse and sensation below the injury.</string>
+    <string name="fracture_dont_3">Do NOT give the person food or water in case surgery is needed.</string>
+
+    <!-- Drowning -->
+    <string name="drowning_step_1">Ensure YOUR safety first. Do not jump in water unless trained — throw a rope, branch, or float object.</string>
+    <string name="drowning_do_1">Call 108 immediately. Get the person out of water as safely and quickly as possible.</string>
+    <string name="drowning_dont_1">Do NOT enter deep water without training — you risk becoming a second victim.</string>
+    <string name="drowning_step_2">Once out, lay the person on their back. Check for breathing. If not breathing, begin rescue breaths.</string>
+    <string name="drowning_do_2">Give 2 rescue breaths: tilt head back, lift chin, cover mouth, and blow for 1 second each.</string>
+    <string name="drowning_dont_2">Do NOT waste time trying to drain water from lungs — focus on breathing and CPR.</string>
+    <string name="drowning_step_3">Begin CPR: 30 chest compressions (push hard and fast on center of chest) followed by 2 rescue breaths.</string>
+    <string name="drowning_do_3">Continue CPR until help arrives or the person starts breathing normally.</string>
+    <string name="drowning_dont_3">Do NOT leave the person alone once rescued — keep monitoring closely.</string>
+
+    <!-- Electric Shock -->
+    <string name="electric_step_1">DO NOT touch the person if they are still in contact with electricity. Switch off the power source first.</string>
+    <string name="electric_do_1">Use a non-conducting object (dry wood, rubber) to move the power source away if the switch cannot be reached.</string>
+    <string name="electric_dont_1">Do NOT touch the person with bare hands while they are in contact with electricity.</string>
+    <string name="electric_step_2">Once safe, call 108. Check if the person is breathing and conscious.</string>
+    <string name="electric_do_2">If not breathing, begin CPR immediately. Electric shock can stop the heart.</string>
+    <string name="electric_dont_2">Do NOT apply water to an electrical burn.</string>
+    <string name="electric_step_3">Treat burns from the shock: cool with running water and cover loosely.</string>
+    <string name="electric_do_3">Keep the person lying flat and warm. Watch for delayed shock symptoms.</string>
+    <string name="electric_dont_3">Do NOT leave the person unattended — internal injuries may not be immediately visible.</string>
+
+    <!-- Seizure -->
+    <string name="seizure_step_1">Stay calm. Time the seizure. Clear the area of any hard or sharp objects.</string>
+    <string name="seizure_do_1">Gently place something soft under the person\'s head. Turn them on their side if possible.</string>
+    <string name="seizure_dont_1">Do NOT restrain the person or hold them down during the seizure.</string>
+    <string name="seizure_step_2">Stay with the person throughout the seizure. Keep bystanders away.</string>
+    <string name="seizure_do_2">After the seizure, place the person in the recovery position (on their side) to prevent choking.</string>
+    <string name="seizure_dont_2">Do NOT put anything in the person\'s mouth — they cannot swallow their tongue.</string>
+    <string name="seizure_step_3">Call 108 if: seizure lasts more than 5 minutes, person doesn\'t wake up, or it\'s a first-ever seizure.</string>
+    <string name="seizure_do_3">Speak calmly to the person as they recover. Confusion after a seizure is normal.</string>
+    <string name="seizure_dont_3">Do NOT give food or water until the person is fully conscious and aware.</string>
+
+    <!-- Poisoning -->
+    <string name="poison_step_1">Call 108 or the poison control center immediately. Do NOT wait for symptoms to appear.</string>
+    <string name="poison_do_1">Try to identify the poison: chemical name, quantity, and time of exposure.</string>
+    <string name="poison_dont_1">Do NOT induce vomiting unless specifically instructed by medical professionals.</string>
+    <string name="poison_step_2">If poison is on skin or eyes, rinse with large amounts of cool water for 15–20 minutes.</string>
+    <string name="poison_do_2">If the person is unconscious but breathing, place them in the recovery position.</string>
+    <string name="poison_dont_2">Do NOT give milk, water, or any other substance to drink unless instructed.</string>
+    <string name="poison_step_3">Bring the poison container or substance to the hospital for identification by doctors.</string>
+    <string name="poison_do_3">Monitor breathing and consciousness. Begin CPR if breathing stops.</string>
+    <string name="poison_dont_3">Do NOT leave the person alone. Keep them calm and still.</string>
+
+    <!-- Eye Injury -->
+    <string name="eye_step_1">Do NOT rub the eye. Keep the person still and calm.</string>
+    <string name="eye_do_1">For chemical splash: rinse the eye immediately with clean water for 15–20 minutes.</string>
+    <string name="eye_dont_1">Do NOT try to remove an object embedded in the eye.</string>
+    <string name="eye_step_2">For a foreign particle: blink rapidly or rinse with clean water. Pull the upper eyelid over the lower one.</string>
+    <string name="eye_do_2">Cover the eye loosely with a clean cloth or eye patch to prevent further injury.</string>
+    <string name="eye_dont_2">Do NOT apply pressure to an injured eye or put any drops without medical guidance.</string>
+    <string name="eye_step_3">Seek medical attention immediately for any chemical burn, penetrating injury, or sudden vision change.</string>
+    <string name="eye_do_3">Keep both eyes covered (covering one reduces movement of the injured eye).</string>
+    <string name="eye_dont_3">Do NOT remove contact lenses if the eye is chemically injured — flush with contacts in place first.</string>
+
+    <!-- Fever -->
+    <string name="fever_step_1">Measure temperature. A fever above 103°F (39.4°C) requires immediate attention.</string>
+    <string name="fever_do_1">Apply a cool, damp cloth to the forehead, armpits, and groin to bring down temperature.</string>
+    <string name="fever_dont_1">Do NOT use an ice bath or very cold water — this can cause shivering and raise temperature.</string>
+    <string name="fever_step_2">Keep the person hydrated. Encourage frequent sips of water, ORS, or coconut water.</string>
+    <string name="fever_do_2">Give appropriate fever-reducing medicine like Paracetamol as per age and dosage instructions.</string>
+    <string name="fever_dont_2">Do NOT give Aspirin to children — it can cause a dangerous condition called Reye\'s syndrome.</string>
+    <string name="fever_step_3">Seek immediate medical help for fever with stiff neck, rash, difficulty breathing, or seizures.</string>
+    <string name="fever_do_3">Keep the room well-ventilated. Light, breathable clothing is preferred.</string>
+    <string name="fever_dont_3">Do NOT wrap the person in heavy blankets — this traps heat and worsens fever.</string>
+
+    <!-- Asthma -->
+    <string name="asthma_step_1">Help the person sit upright and lean slightly forward. This position opens the airways.</string>
+    <string name="asthma_do_1">Help them use their reliever inhaler (usually blue). Give one puff every 30–60 seconds up to 10 puffs.</string>
+    <string name="asthma_dont_1">Do NOT lay the person flat — this makes breathing harder.</string>
+    <string name="asthma_step_2">Help them breathe slowly and steadily. Encourage pursed-lip breathing.</string>
+    <string name="asthma_do_2">Loosen any tight clothing around their neck and chest.</string>
+    <string name="asthma_dont_2">Do NOT leave the person alone during an asthma attack.</string>
+    <string name="asthma_step_3">Call 108 immediately if: the inhaler has no effect after 10 puffs, lips turn blue, or they can\'t speak.</string>
+    <string name="asthma_do_3">Keep calm and reassure them — anxiety makes asthma attacks worse.</string>
+    <string name="asthma_dont_3">Do NOT allow the person to exercise or exert themselves during or just after an attack.</string>
+
+    <!-- Sprain -->
+    <string name="sprain_step_1">Rest the injured area immediately. Stop any activity causing pain.</string>
+    <string name="sprain_do_1">Apply Ice wrapped in cloth for 20 minutes every 2 hours for the first 48 hours.</string>
+    <string name="sprain_dont_1">Do NOT apply heat or massage in the first 48 hours — this increases swelling.</string>
+    <string name="sprain_step_2">Compress the area with a bandage to reduce swelling. Not too tight!</string>
+    <string name="sprain_do_2">Elevate the injured limb above heart level to reduce swelling.</string>
+    <string name="sprain_dont_2">Do NOT bear weight on a severe sprain until cleared by a doctor.</string>
+    <string name="sprain_step_3">Seek medical attention if: you cannot bear weight, extreme swelling, numbness, or the bone looks deformed.</string>
+    <string name="sprain_do_3">Take over-the-counter pain relief like ibuprofen or paracetamol if available.</string>
+    <string name="sprain_dont_3">Do NOT try to \"walk off\" a severe sprain — you may be dealing with a fracture.</string>
+
+    <!-- Nosebleed -->
+    <string name="nose_step_1">Have the person sit upright and lean slightly FORWARD (not backward).</string>
+    <string name="nose_do_1">Pinch the soft part of the nose firmly and breathe through the mouth.</string>
+    <string name="nose_dont_1">Do NOT tilt the head backward — blood can go into the throat and cause choking.</string>
+    <string name="nose_step_2">Maintain pressure for 10–15 minutes without releasing. Apply a cold compress to the bridge of the nose.</string>
+    <string name="nose_do_2">After bleeding stops, avoid blowing nose for several hours.</string>
+    <string name="nose_dont_2">Do NOT pack the nose tightly with cotton — this can damage tissue.</string>
+    <string name="nose_step_3">Seek medical help if: bleeding doesn\'t stop after 30 minutes, caused by head injury, or person is on blood thinners.</string>
+    <string name="nose_do_3">Keep the person calm and still — anxiety raises blood pressure and worsens bleeding.</string>
+    <string name="nose_dont_3">Do NOT blow nose immediately after bleeding stops — this can restart the bleed.</string>
+
+    <!-- Diabetic Emergency -->
+    <string name="diabetic_step_1">Identify if the person has high or low blood sugar. Low sugar (Hypoglycemia) is more immediately dangerous.</string>
+    <string name="diabetic_do_1">For LOW blood sugar: give 15g of fast-acting sugar — 3–4 glucose tablets, or 150ml fruit juice, or sugar dissolved in water.</string>
+    <string name="diabetic_dont_1">Do NOT give food or drink to an unconscious person — they can choke.</string>
+    <string name="diabetic_step_2">Wait 15 minutes and check symptoms. If no improvement, give another dose of sugar and call 108.</string>
+    <string name="diabetic_do_2">If the person is unconscious, place them in the recovery position and call 108 immediately.</string>
+    <string name="diabetic_dont_2">Do NOT give insulin for low blood sugar — this will make it worse.</string>
+    <string name="diabetic_step_3">For HIGH blood sugar (Hyperglycemia): encourage drinking water and seek medical help promptly.</string>
+    <string name="diabetic_do_3">Stay with the person and monitor their level of consciousness until help arrives.</string>
+    <string name="diabetic_dont_3">Do NOT assume it is always low sugar — only give sugar if you are certain it is hypoglycemia.</string>
+
+    <!-- Head Injury -->
+    <string name="head_step_1">Keep the person still and calm. Do NOT move them unless they are in danger.</string>
+    <string name="head_do_1">Stop any bleeding by applying gentle pressure with a clean cloth. Do NOT press on the skull if you suspect a fracture.</string>
+    <string name="head_dont_1">Do NOT remove a helmet or head protection if a fracture is suspected.</string>
+    <string name="head_step_2">Watch for warning signs: loss of consciousness, confusion, vomiting, seizures, unequal pupils, or slurred speech.</string>
+    <string name="head_do_2">If unconscious but breathing, gently place in the recovery position. Stabilize the head and neck.</string>
+    <string name="head_dont_2">Do NOT give aspirin or ibuprofen — they increase bleeding. Paracetamol is safer.</string>
+    <string name="head_step_3">Call 108 immediately for any serious head injury. Even mild concussions require medical evaluation.</string>
+    <string name="head_do_3">Keep the person awake and talking. Monitor every 30 minutes for next 24 hours.</string>
+    <string name="head_dont_3">Do NOT leave the person alone or allow them to sleep immediately after a head injury.</string>
+
+    <!-- Allergic Reaction -->
+    <string name="allergy_step_1">Identify and remove the allergen source if possible (food, insect, medication).</string>
+    <string name="allergy_do_1">If the person has an epinephrine auto-injector (EpiPen), use it immediately in the outer thigh.</string>
+    <string name="allergy_dont_1">Do NOT give antihistamines as primary treatment for a severe reaction (anaphylaxis).</string>
+    <string name="allergy_step_2">Call 108 immediately for severe reactions: difficulty breathing, throat swelling, drop in blood pressure, loss of consciousness.</string>
+    <string name="allergy_do_2">Have the person lie flat with legs elevated (unless breathing is difficult — then sit them up).</string>
+    <string name="allergy_dont_2">Do NOT leave the person alone after using the EpiPen — effects are temporary and reaction can return.</string>
+    <string name="allergy_step_3">Perform CPR if the person stops breathing while waiting for ambulance.</string>
+    <string name="allergy_do_3">Note the allergen and time for the medical team. A second EpiPen dose may be needed after 5–15 minutes.</string>
+    <string name="allergy_dont_3">Do NOT assume they are recovering if symptoms temporarily improve — they need hospital care.</string>
+
+    <!-- Severe Bleeding -->
+    <string name="bleeding_step_1">Apply firm, direct pressure to the wound using a clean cloth, bandage, or clothing.</string>
+    <string name="bleeding_do_1">Press firmly and continuously without releasing for at least 10–15 minutes.</string>
+    <string name="bleeding_dont_1">Do NOT remove the cloth if it soaks through — add more layers on top and keep pressing.</string>
+    <string name="bleeding_step_2">If an arm or leg is bleeding severely and pressure does not stop it, apply a tourniquet above the wound.</string>
+    <string name="bleeding_do_2">Tourniquet: tie tight cloth 5–8cm above wound, twist until bleeding stops, note the time applied.</string>
+    <string name="bleeding_dont_2">Do NOT use a tourniquet for neck, chest, or abdominal wounds. Apply pressure only.</string>
+    <string name="bleeding_step_3">Keep the person lying down. Elevate the injured part above heart level. Call 108 immediately.</string>
+    <string name="bleeding_do_3">Keep the person warm and calm. Monitor for signs of shock: pale skin, rapid breathing, confusion.</string>
+    <string name="bleeding_dont_3">Do NOT give the person food or water — they may need surgery.</string>
+
+    <!-- Heatstroke -->
+    <string name="heat_step_1">Move the person to a cool, shaded, or air-conditioned area immediately.</string>
+    <string name="heat_do_1">Remove excess clothing. Cool the person rapidly: spray with cool water and fan them.</string>
+    <string name="heat_dont_1">Do NOT give anything to drink if the person is confused, unconscious, or vomiting.</string>
+    <string name="heat_step_2">Apply ice packs or cool wet cloths to neck, armpits, and groin — areas with major blood vessels.</string>
+    <string name="heat_do_2">If conscious and coherent, give cool water or a sports drink to sip slowly.</string>
+    <string name="heat_dont_2">Do NOT give aspirin or paracetamol for heatstroke — they are not effective and may cause harm.</string>
+    <string name="heat_step_3">Call 108. Heatstroke is life-threatening. Keep cooling the person until help arrives.</string>
+    <string name="heat_do_3">If the person becomes unconscious, place in recovery position and monitor breathing.</string>
+    <string name="heat_dont_3">Do NOT leave the person in a hot environment for even a moment.</string>
+
+    <!-- Unconscious -->
+    <string name="unconscious_step_1">Check for response: tap shoulders, shout "Are you okay?" If no response, call 108 immediately.</string>
+    <string name="unconscious_do_1">Check for breathing: look for chest rise, listen, and feel for breath for 10 seconds.</string>
+    <string name="unconscious_dont_1">Do NOT move the person if a spinal injury is suspected (fall from height, vehicle accident).</string>
+    <string name="unconscious_step_2">If breathing: Place in the Recovery Position — on their side, head tilted back, top knee bent forward for stability.</string>
+    <string name="unconscious_do_2">Keep the airway open. Monitor breathing every minute until help arrives.</string>
+    <string name="unconscious_dont_2">Do NOT give anything by mouth to an unconscious person.</string>
+    <string name="unconscious_step_3">If NOT breathing: Begin CPR immediately. 30 chest compressions, then 2 rescue breaths. Repeat until help arrives.</string>
+    <string name="unconscious_do_3">If an AED (Defibrillator) is available, use it as soon as possible — follow the voice instructions.</string>
+    <string name="unconscious_dont_3">Do NOT leave the person alone at any time until trained help takes over.</string>
+</resources>

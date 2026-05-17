@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಪ್ರಥಮ ಚಿಕಿತ್ಸೆ</string>
+    <string name="app_tagline">ತುರ್ತು ಪ್ರಥಮ ಚಿಕಿತ್ಸೆ ಮಾರ್ಗದರ್ಶಿ</string>
+    <string name="audio_mode">🔊 ಆಡಿಯೋ ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="audio_stop">🔇 ಆಡಿಯೋ ನಿಲ್ಲಿಸಿ</string>
+    <string name="dos">✅ ಮಾಡಬೇಕಾದವುಗಳು</string>
+    <string name="donts">❌ ಮಾಡಬಾರದವುಗಳು</string>
+    <string name="hospital_finder">ಹತ್ತಿರದ ಆಸ್ಪತ್ರೆಗಳು</string>
+    <string name="swipe_hint">ಮುಂದಿನ ಹಂತಕ್ಕೆ ಸ್ವೈಪ್ ಮಾಡಿ →</string>
+    <string name="step_label">ಹಂತ</string>
+    <string name="of_label">ರಲ್ಲಿ</string>
+    <string name="call_ambulance">📞 108 ಕರೆ ಮಾಡಿ – ಆಂಬುಲೆನ್ಸ್</string>
+    <string name="offline_ready">✅ ಅಂತರ್ಜಾಲವಿಲ್ಲದೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ</string>
+    <string name="select_emergency">ತುರ್ತು ಸ್ಥಿತಿಯನ್ನು ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="call_now">ಈಗಲೇ ಕರೆ ಮಾಡಿ</string>
+    <string name="emergency_snake_bite">🐍 ಹಾವು ಕಡಿತ</string>
+    <string name="emergency_heart_attack">❤️ ಹೃದಯಾಘಾತ</string>
+    <string name="emergency_burn">🔥 ಸುಟ್ಟ ಗಾಯ</string>
+    <string name="emergency_choking">😮 ಉಸಿರುಗಟ್ಟುವಿಕೆ</string>
+    <string name="emergency_fracture">🦴 ಮೂಳೆ ಮುರಿತ</string>
+    <string name="emergency_drowning">🌊 ಮುಳುಗುವಿಕೆ</string>
+    <string name="emergency_electric_shock">⚡ ವಿದ್ಯುತ್ ಆಘಾತ</string>
+    <string name="emergency_seizure">🧠 ಅಪಸ್ಮಾರ</string>
+    <string name="emergency_poisoning">☠️ ವಿಷ ಸೇವನೆ</string>
+    <string name="emergency_eye_injury">👁️ ಕಣ್ಣಿನ ಗಾಯ</string>
+    <string name="emergency_fever">🌡️ ತೀವ್ರ ಜ್ವರ</string>
+    <string name="emergency_asthma">💨 ಆಸ್ತಮಾ ದಾಳಿ</string>
+    <string name="emergency_sprain">🦵 ಮೂಳೆ ಮಚ್ಚು</string>
+    <string name="emergency_nosebleed">🩸 ಮೂಗಿನ ರಕ್ತಸ್ರಾವ</string>
+    <string name="emergency_diabetic">💉 ಮಧುಮೇಹ ತುರ್ತು</string>
+    <string name="emergency_head_injury">🤕 ತಲೆ ಗಾಯ</string>
+    <string name="emergency_allergic">🚨 ಅಲರ್ಜಿ ಪ್ರತಿಕ್ರಿಯೆ</string>
+    <string name="emergency_bleeding">🩹 ತೀವ್ರ ರಕ್ತಸ್ರಾವ</string>
+    <string name="emergency_heatstroke">☀️ ಉಷ್ಣಾಘಾತ</string>
+    <string name="emergency_unconscious">😴 ಮೂರ್ಛೆ ವ್ಯಕ್ತಿ</string>
+</resources>
